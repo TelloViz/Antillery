@@ -1,4 +1,13 @@
-# 🐜 Antillery
+# Antillery
+
+## ⚠️ Repository Access ⚠️
+
+> This is a public-facing showcase repo. The full game source and assets are private due to ongoing commercial development.
+> If you are reviewing this for hiring, I can provide a guided walkthrough of the architecture and key systems, and share limited code excerpts on request.
+
+---
+
+## What is Antillery?
 
 Antillery is a 2D turn-based artillery game where teams of ants battle across deformable terrain using both destructive weapons and unconventional tools of peace.
 
@@ -62,11 +71,14 @@ Antillery is not a clone. It’s a reinterpretation. Tools of peace can cause ju
 
 ## License & Reuse
 
-This is a public-facing showcase of a private project. The full game source is **not open-source**.
+This repository is a public-facing showcase of Antillery. The full game source code and assets are private due to ongoing commercial development.
 
-All rights to the core Antillery project — including its code, assets, and design — are reserved. Select tooling or framework components may be open-sourced separately in the future.
+All rights to the core Antillery project, including code, assets, and design, are reserved. No permission is granted to copy, redistribute, or reuse any part of the project without explicit written consent.
 
-> Interested in collaborating, licensing, or reviewing the project? Contact me below.
+If you are reviewing this for hiring, I can provide a guided walkthrough of the architecture and key systems, and share code excerpts or a limited sample module on request.
+
+> Interested in collaborating or licensing? Contact me below.
+
 
 ---
 
